@@ -6,15 +6,15 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on web development, data science, and machine learning. Here's a bit about me:
 
-### 🌐 Web Developer & Data Enthusiast
+### 🌐 Software Developer, Data Scienctist & ML/AI Enthusiast
 
 - 💻 I'm experienced in full-stack web development using technologies like Flask, Django, and front-end technologies (HTML, CSS, JavaScript).
-- 📊 My data science journey involves Python (Pandas, NumPy, SciPy) and machine learning with TensorFlow.
+- 📊 My data science journey involves Python (Pandas, NumPy, Matplotlib,SciPy) and machine learning with TensorFlow.
 - 🌐 I'm proficient in WordPress, handling domains, hosting, cPanel, and utilizing Elementor Developer for enhanced web experiences.
 
 ### Current Focus
 
--  I’m currently working on enhancing my machine learning skills and exploring new technologies in web development.
+-  I’m currently working on enhancing my machine learning skills and exploring new technologies in data science.
 -  I’m always learning and staying updated with the latest trends in the tech world.
 
 ### Let's Collaborate!
