@@ -1,6 +1,7 @@
 
 
-![Blue Yellow Simple Entrepreneur LinkedIn Banner  (1)](https://github.com/JoshuaFarara/JoshuaFarara/assets/109557415/063b887d-b417-403b-8e99-a50d19344237)
+![JoshuaFarara_Headhsot2](https://github.com/JoshuaFarara/JoshuaFarara/assets/109557415/824c5684-136b-4fb0-a327-002ae99aef68)
+
 
 ## Hello, I am Joshua Farara 
 
