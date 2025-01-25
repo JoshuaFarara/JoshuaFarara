@@ -1,6 +1,4 @@
 
-
-![Blue Yellow Simple Entrepreneur LinkedIn Banner ](https://github.com/JoshuaFarara/JoshuaFarara/assets/109557415/24362ea1-b707-4c88-85c7-db1f9d3ac799)
 ![Blue Yellow Simple Entrepreneur LinkedIn Banner ](https://media.licdn.com/dms/image/v2/D4E16AQGcAwEbuWCbEA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737784827791?e=1743033600&v=beta&t=i_3bAFjvSnsVkfu1bXFis6svpgDBBCzj64eYhanCkmc)
 
 
