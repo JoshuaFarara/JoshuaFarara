@@ -1,7 +1,3 @@
-
-![Blue Yellow Simple Entrepreneur LinkedIn Banner ](https://media.licdn.com/dms/image/v2/D4E16AQGcAwEbuWCbEA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737784827791?e=1743033600&v=beta&t=i_3bAFjvSnsVkfu1bXFis6svpgDBBCzj64eYhanCkmc)
-
-
 ## Hi, I'm Joshua Farara 👋  
 
 Welcome to my GitHub profile! I'm a dedicated software developer and educator passionate about web development, data analytics, and fostering a deeper understanding of technology.  
